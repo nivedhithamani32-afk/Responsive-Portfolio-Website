@@ -15,9 +15,3 @@ SECTIONS:
 2. Skills
 3. Projects
 4. Contact
-
-SCREENSHOT:
-![Portfolio Screenshot](images/portfolio.png)
-
-LIVE DEMO:
-https://your-username.github.io/portfolio/
